@@ -1,4 +1,6 @@
 # RESTClient
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcrypto0sy80%2FRESTClient.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcrypto0sy80%2FRESTClient?ref=badge_shield)
+
 
 [RESTClient](http://restclient.net) is a debugger for RESTful web services. Currently only [Firefox addon](https://addons.mozilla.org/en-US/firefox/addon/9780/) has been finished.
 
@@ -54,3 +56,6 @@
   * Fixed multiple set-cookie response bug  (isseue #26)
   * Allow to copy response headers
   * Added theme support
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcrypto0sy80%2FRESTClient.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcrypto0sy80%2FRESTClient?ref=badge_large)
